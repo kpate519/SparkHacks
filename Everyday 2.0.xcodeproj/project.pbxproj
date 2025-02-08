@@ -24,25 +24,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0C44C2182D57257900565705 /* Everday 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Everday 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0C44C2282D57257A00565705 /* Everday 2.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Everday 2.0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0C44C2322D57257A00565705 /* Everday 2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Everday 2.0UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C44C2182D57257900565705 /* Everyday 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Everyday 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C44C2282D57257A00565705 /* Everyday 2.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Everyday 2.0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C44C2322D57257A00565705 /* Everyday 2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Everyday 2.0UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0C44C21A2D57257900565705 /* Everday 2.0 */ = {
+		0C44C21A2D57257900565705 /* Everyday 2.0 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Everday 2.0";
+			path = "Everyday 2.0";
 			sourceTree = "<group>";
 		};
-		0C44C22B2D57257A00565705 /* Everday 2.0Tests */ = {
+		0C44C22B2D57257A00565705 /* Everyday 2.0Tests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Everday 2.0Tests";
+			path = "Everyday 2.0Tests";
 			sourceTree = "<group>";
 		};
-		0C44C2352D57257A00565705 /* Everday 2.0UITests */ = {
+		0C44C2352D57257A00565705 /* Everyday 2.0UITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Everday 2.0UITests";
+			path = "Everyday 2.0UITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -75,9 +75,9 @@
 		0C44C20F2D57257900565705 = {
 			isa = PBXGroup;
 			children = (
-				0C44C21A2D57257900565705 /* Everday 2.0 */,
-				0C44C22B2D57257A00565705 /* Everday 2.0Tests */,
-				0C44C2352D57257A00565705 /* Everday 2.0UITests */,
+				0C44C21A2D57257900565705 /* Everyday 2.0 */,
+				0C44C22B2D57257A00565705 /* Everyday 2.0Tests */,
+				0C44C2352D57257A00565705 /* Everyday 2.0UITests */,
 				0C44C2192D57257900565705 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,9 +85,9 @@
 		0C44C2192D57257900565705 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0C44C2182D57257900565705 /* Everday 2.0.app */,
-				0C44C2282D57257A00565705 /* Everday 2.0Tests.xctest */,
-				0C44C2322D57257A00565705 /* Everday 2.0UITests.xctest */,
+				0C44C2182D57257900565705 /* Everyday 2.0.app */,
+				0C44C2282D57257A00565705 /* Everyday 2.0Tests.xctest */,
+				0C44C2322D57257A00565705 /* Everyday 2.0UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0C44C2172D57257900565705 /* Everday 2.0 */ = {
+		0C44C2172D57257900565705 /* Everyday 2.0 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0C44C23C2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everday 2.0" */;
+			buildConfigurationList = 0C44C23C2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everyday 2.0" */;
 			buildPhases = (
 				0C44C2142D57257900565705 /* Sources */,
 				0C44C2152D57257900565705 /* Frameworks */,
@@ -108,18 +108,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0C44C21A2D57257900565705 /* Everday 2.0 */,
+				0C44C21A2D57257900565705 /* Everyday 2.0 */,
 			);
-			name = "Everday 2.0";
+			name = "Everyday 2.0";
 			packageProductDependencies = (
 			);
 			productName = "Everday 2.0";
-			productReference = 0C44C2182D57257900565705 /* Everday 2.0.app */;
+			productReference = 0C44C2182D57257900565705 /* Everyday 2.0.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0C44C2272D57257A00565705 /* Everday 2.0Tests */ = {
+		0C44C2272D57257A00565705 /* Everyday 2.0Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0C44C23F2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everday 2.0Tests" */;
+			buildConfigurationList = 0C44C23F2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everyday 2.0Tests" */;
 			buildPhases = (
 				0C44C2242D57257A00565705 /* Sources */,
 				0C44C2252D57257A00565705 /* Frameworks */,
@@ -131,18 +131,18 @@
 				0C44C22A2D57257A00565705 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0C44C22B2D57257A00565705 /* Everday 2.0Tests */,
+				0C44C22B2D57257A00565705 /* Everyday 2.0Tests */,
 			);
-			name = "Everday 2.0Tests";
+			name = "Everyday 2.0Tests";
 			packageProductDependencies = (
 			);
 			productName = "Everday 2.0Tests";
-			productReference = 0C44C2282D57257A00565705 /* Everday 2.0Tests.xctest */;
+			productReference = 0C44C2282D57257A00565705 /* Everyday 2.0Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0C44C2312D57257A00565705 /* Everday 2.0UITests */ = {
+		0C44C2312D57257A00565705 /* Everyday 2.0UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0C44C2422D57257A00565705 /* Build configuration list for PBXNativeTarget "Everday 2.0UITests" */;
+			buildConfigurationList = 0C44C2422D57257A00565705 /* Build configuration list for PBXNativeTarget "Everyday 2.0UITests" */;
 			buildPhases = (
 				0C44C22E2D57257A00565705 /* Sources */,
 				0C44C22F2D57257A00565705 /* Frameworks */,
@@ -154,13 +154,13 @@
 				0C44C2342D57257A00565705 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				0C44C2352D57257A00565705 /* Everday 2.0UITests */,
+				0C44C2352D57257A00565705 /* Everyday 2.0UITests */,
 			);
-			name = "Everday 2.0UITests";
+			name = "Everyday 2.0UITests";
 			packageProductDependencies = (
 			);
 			productName = "Everday 2.0UITests";
-			productReference = 0C44C2322D57257A00565705 /* Everday 2.0UITests.xctest */;
+			productReference = 0C44C2322D57257A00565705 /* Everyday 2.0UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0C44C2172D57257900565705 /* Everday 2.0 */,
-				0C44C2272D57257A00565705 /* Everday 2.0Tests */,
-				0C44C2312D57257A00565705 /* Everday 2.0UITests */,
+				0C44C2172D57257900565705 /* Everyday 2.0 */,
+				0C44C2272D57257A00565705 /* Everyday 2.0Tests */,
+				0C44C2312D57257A00565705 /* Everyday 2.0UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		0C44C22A2D57257A00565705 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0C44C2172D57257900565705 /* Everday 2.0 */;
+			target = 0C44C2172D57257900565705 /* Everyday 2.0 */;
 			targetProxy = 0C44C2292D57257A00565705 /* PBXContainerItemProxy */;
 		};
 		0C44C2342D57257A00565705 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0C44C2172D57257900565705 /* Everday 2.0 */;
+			target = 0C44C2172D57257900565705 /* Everyday 2.0 */;
 			targetProxy = 0C44C2332D57257A00565705 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -460,7 +460,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Everday 2.0.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Everday 2.0";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Everyday 2.0.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Everyday 2.0";
 			};
 			name = Debug;
 		};
@@ -478,7 +478,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Everday 2.0.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Everday 2.0";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Everyday 2.0.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Everyday 2.0";
 			};
 			name = Release;
 		};
@@ -526,7 +526,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0C44C23C2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everday 2.0" */ = {
+		0C44C23C2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everyday 2.0" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0C44C23D2D57257A00565705 /* Debug */,
@@ -535,7 +535,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0C44C23F2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everday 2.0Tests" */ = {
+		0C44C23F2D57257A00565705 /* Build configuration list for PBXNativeTarget "Everyday 2.0Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0C44C2402D57257A00565705 /* Debug */,
@@ -544,7 +544,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0C44C2422D57257A00565705 /* Build configuration list for PBXNativeTarget "Everday 2.0UITests" */ = {
+		0C44C2422D57257A00565705 /* Build configuration list for PBXNativeTarget "Everyday 2.0UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0C44C2432D57257A00565705 /* Debug */,
