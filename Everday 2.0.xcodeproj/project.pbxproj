@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0C44C2132D57257900565705 /* Build configuration list for PBXProject "Everday 2.0" */;
+			buildConfigurationList = 0C44C2132D57257900565705 /* Build configuration list for PBXProject "Everyday 2.0" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -517,7 +517,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0C44C2132D57257900565705 /* Build configuration list for PBXProject "Everday 2.0" */ = {
+		0C44C2132D57257900565705 /* Build configuration list for PBXProject "Everyday 2.0" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0C44C23A2D57257A00565705 /* Debug */,
