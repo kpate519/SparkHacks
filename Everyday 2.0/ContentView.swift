@@ -39,7 +39,7 @@ struct ContentView: View {
                 IntroPageView(showIntroPage: $showIntroPage, showSecPage: $showSecPage)
                 
             } else if showSecPage {
-                SecondPageView(showSecPage: $showSecPage)
+                SecondPageView(showSecPage: $showSecPage, showIntroPage: $showIntroPage)
             } else {
                 // Show map after intro page is dismissed
                 Map {
@@ -154,7 +154,7 @@ struct FountainDetailView: View {
 }
 struct SecondPageView: View {
     @Binding var showSecPage: Bool
-
+    @Binding var showIntroPage: Bool
     var body: some View {
         GeometryReader { geometry in
             ZStack {
@@ -189,6 +189,7 @@ struct SecondPageView: View {
                         Spacer()
                     }
                     .frame(maxWidth: .infinity) // This ensures the HStack takes up the full width
+                    
                 }
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
             }
