@@ -1,0 +1,513 @@
+[
+    {
+        "id": "12567035161",
+        "lat": 41.8664110,
+        "lon": -87.6706716,
+        "building": "Westside Research Office Building",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035162",
+        "lat": 41.8674600,
+        "lon": -87.6697456,
+        "building": "Environmental Health and Safety Offices",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035163",
+        "lat": 41.8675241,
+        "lon": -87.6678784,
+        "building": "Disability, Health and Social Policy Building",
+        "location": "Floor-4A"
+    },
+    {
+        "id": "12567035164",
+        "lat": 41.8685471,
+        "lon": -87.6677191,
+        "building": "School of Public Health and Psychiatric Institute",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567035165",
+        "lat": 41.8683352,
+        "lon": -87.6748135,
+        "building": "Applied Health Sciences Building",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035166",
+        "lat": 41.8687900,
+        "lon": -87.6730702,
+        "building": "Eye and Ear Infirmary",
+        "location": "Floor-2A"
+    },
+    {
+        "id": "12567035167",
+        "lat": 41.8694869,
+        "lon": -87.6755474,
+        "building": "Benjamin Goldberg Research Center",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567035168",
+        "lat": 41.8700207,
+        "lon": -87.6753748,
+        "building": "College of Nursing",
+        "location": "Floor-2A"
+    },
+    {
+        "id": "12567035169",
+        "lat": 41.8697562,
+        "lon": -87.6733890,
+        "building": "College of Medicine Research Building",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035170",
+        "lat": 41.8706751,
+        "lon": -87.6733452,
+        "building": "Medical Sciences Building",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035171",
+        "lat": 41.8712792,
+        "lon": -87.6731430,
+        "building": "College of Medicine West Tower",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567035172",
+        "lat": 41.8708684,
+        "lon": -87.6725751,
+        "building": "Clinical Sciences North",
+        "location": "Floor-5A"
+    },
+    {
+        "id": "12567035173",
+        "lat": 41.8706103,
+        "lon": -87.6720184,
+        "building": "Clinical Sciences Building",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035174",
+        "lat": 41.8712705,
+        "lon": -87.6718059,
+        "building": "College of Medicine East Tower",
+        "location": "Floor-5A"
+    },
+    {
+        "id": "12567035175",
+        "lat": 41.8705702,
+        "lon": -87.6708476,
+        "building": "College of Pharmacy",
+        "location": "Floor-3B"
+    },
+    {
+        "id": "12567035176",
+        "lat": 41.8718763,
+        "lon": -87.6709434,
+        "building": "Library of the Health Sciences",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035177",
+        "lat": 41.8722865,
+        "lon": -87.6711870,
+        "building": "Human Resources Building",
+        "location": "Floor-A"
+    },
+    {
+        "id": "12567035178",
+        "lat": 41.8710790,
+        "lon": -87.6684016,
+        "building": "College of Dentistry",
+        "location": "Floor-5A"
+    },
+    {
+        "id": "12567035179",
+        "lat": 41.8712297,
+        "lon": -87.6674141,
+        "building": "Marshfield Avenue Building",
+        "location": "Floor-5A"
+    },
+    {
+        "id": "12567035180",
+        "lat": 41.8748600,
+        "lon": -87.6578532,
+        "building": "Student Services Building",
+        "location": "Floor-2SA"
+    },
+    {
+        "id": "12567035181",
+        "lat": 41.8748603,
+        "lon": -87.6561551,
+        "building": "Credit Union 1 Arena",
+        "location": "Floor-2SA"
+    },
+    {
+        "id": "12567035182",
+        "lat": 41.8749647,
+        "lon": -87.6530242,
+        "building": "Education, Theatre, Music and Social Work",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567035183",
+        "lat": 41.8745848,
+        "lon": -87.6533331,
+        "building": "UIC Theatre",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567035184",
+        "lat": 41.8737706,
+        "lon": -87.6527148,
+        "building": "Behavioral Sciences Building",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567035185",
+        "lat": 41.8692855,
+        "lon": -87.6544758,
+        "building": "Taylor Street Building",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035186",
+        "lat": 41.8761602,
+        "lon": -87.6498564,
+        "building": "College of Urban Planning and Public Affairs Hall",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567035187",
+        "lat": 41.8747747,
+        "lon": -87.6514096,
+        "building": "AcademicandResidential Complex",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567035188",
+        "lat": 41.8738000,
+        "lon": -87.6509956,
+        "building": "University Hall",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035189",
+        "lat": 41.8740876,
+        "lon": -87.6505524,
+        "building": "Henry Hall",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035190",
+        "lat": 41.8740113,
+        "lon": -87.6502460,
+        "building": "Jefferson Hall",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035191",
+        "lat": 41.8742266,
+        "lon": -87.6491808,
+        "building": "Student Residence and Commons West",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035192",
+        "lat": 41.8740127,
+        "lon": -87.6480027,
+        "building": "Student Residence and Commons Courtyard",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035193",
+        "lat": 41.8736366,
+        "lon": -87.6474411,
+        "building": "Student Residence and Commons North",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035194",
+        "lat": 41.8725515,
+        "lon": -87.6463657,
+        "building": "Student Recreation Facility",
+        "location": "Floor-3B"
+    },
+    {
+        "id": "12567035195",
+        "lat": 41.8731271,
+        "lon": -87.6477909,
+        "building": "Student Residence and Commons South",
+        "location": "Floor-3B"
+    },
+    {
+        "id": "12567035196",
+        "lat": 41.8718708,
+        "lon": -87.6479507,
+        "building": "UIC Student Center East",
+        "location": "Floor-6A"
+    },
+    {
+        "id": "12567035197",
+        "lat": 41.8728693,
+        "lon": -87.6503384,
+        "building": "Stevenson Hall",
+        "location": "Floor-LLA"
+    },
+    {
+        "id": "12567035198",
+        "lat": 41.8728846,
+        "lon": -87.6494937,
+        "building": "Grant Hall",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035199",
+        "lat": 41.8728242,
+        "lon": -87.6490882,
+        "building": "Douglass Hall",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567035200",
+        "lat": 41.8724919,
+        "lon": -87.6492937,
+        "building": "Lincoln Hall",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567048201",
+        "lat": 41.8719252,
+        "lon": -87.6505020,
+        "building": "Richard J. Daley Library",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048202",
+        "lat": 41.8708390,
+        "lon": -87.6504606,
+        "building": "ScienceandEngineering Offices",
+        "location": "Floor-3B"
+    },
+    {
+        "id": "12567048203",
+        "lat": 41.8721987,
+        "lon": -87.6492575,
+        "building": "Lecture Center Building B",
+        "location": "Floor-3B"
+    },
+    {
+        "id": "12567048204",
+        "lat": 41.8721149,
+        "lon": -87.6498037,
+        "building": "Lecture Center Building A",
+        "location": "Floor-3B"
+    },
+    {
+        "id": "12567048205",
+        "lat": 41.8721390,
+        "lon": -87.6487167,
+        "building": "Lecture Center Building C",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048206",
+        "lat": 41.8717095,
+        "lon": -87.6487086,
+        "building": "Lecture Center Building D",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048207",
+        "lat": 41.8716978,
+        "lon": -87.6498008,
+        "building": "Lecture Center Building F",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048208",
+        "lat": 41.8715957,
+        "lon": -87.6492436,
+        "building": "Lecture Center Building E",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048209",
+        "lat": 41.8713201,
+        "lon": -87.6492303,
+        "building": "Taft Hall",
+        "location": "Floor-2A"
+    },
+    {
+        "id": "12567048210",
+        "lat": 41.8710112,
+        "lon": -87.6494656,
+        "building": "Burnham Hall",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048211",
+        "lat": 41.8709535,
+        "lon": -87.6490142,
+        "building": "Addams Hall",
+        "location": "Floor-2A"
+    },
+    {
+        "id": "12567048212",
+        "lat": 41.8704518,
+        "lon": -87.6489418,
+        "building": "ScienceandEngineering Laboratory West",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048213",
+        "lat": 41.8704746,
+        "lon": -87.6483074,
+        "building": "ScienceandEngineering Laboratory East",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048214",
+        "lat": 41.8698993,
+        "lon": -87.6479557,
+        "building": "Engineering Research Facility",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567048215",
+        "lat": 41.8684495,
+        "lon": -87.6516304,
+        "building": "Utilities Building",
+        "location": "Floor-3A"
+    },
+    {
+        "id": "12567048216",
+        "lat": 41.8676394,
+        "lon": -87.6517811,
+        "building": "Physical Plant Building",
+        "location": "Floor-LL1"
+    },
+    {
+        "id": "12567048217",
+        "lat": 41.8675532,
+        "lon": -87.6524212,
+        "building": "Co-Generation Facility",
+        "location": "Floor-LL1"
+    },
+    {
+        "id": "12567048218",
+        "lat": 41.8691838,
+        "lon": -87.6501669,
+        "building": "Engineering Innovation Building",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048219",
+        "lat": 41.8689748,
+        "lon": -87.6481102,
+        "building": "ScienceandEngineering South",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048220",
+        "lat": 41.8691712,
+        "lon": -87.6462074,
+        "building": "Plant Research Laboratory",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048221",
+        "lat": 41.8679010,
+        "lon": -87.6456885,
+        "building": "Roosevelt Road Building",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048222",
+        "lat": 41.8667747,
+        "lon": -87.6456581,
+        "building": "Isadore and Sadie Dorin Forum",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048223",
+        "lat": 41.8662522,
+        "lon": -87.6461461,
+        "building": "James J. Stukel Towers",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048224",
+        "lat": 41.8665826,
+        "lon": -87.6483909,
+        "building": "Flames Athletic Center",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048225",
+        "lat": 41.8666126,
+        "lon": -87.6494438,
+        "building": "Physical Education Building",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048226",
+        "lat": 41.8649240,
+        "lon": -87.6495283,
+        "building": "Curtis Granderson Stadium",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048227",
+        "lat": 41.8645023,
+        "lon": -87.6506635,
+        "building": "UIC Police Station",
+        "location": "Floor-2A"
+    },
+    {
+        "id": "12567048228",
+        "lat": 41.8639906,
+        "lon": -87.6506170,
+        "building": "Transportation Facility",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048229",
+        "lat": 41.8643346,
+        "lon": -87.6473975,
+        "building": "Marie Robinson Hall",
+        "location": "Floor-1A"
+    },
+    {
+        "id": "12567048230",
+        "lat": 41.8653627,
+        "lon": -87.6474449,
+        "building": "Thomas Beckham Hall",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048231",
+        "lat": 41.8656349,
+        "lon": -87.6465803,
+        "building": "1253 South Halsted Street",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048232",
+        "lat": 41.8651255,
+        "lon": -87.6466208,
+        "building": "1309 South Halsted Street",
+        "location": "Floor-1B"
+    },
+    {
+        "id": "12567048233",
+        "lat": 41.8649612,
+        "lon": -87.6461652,
+        "building": "722 West Maxwell Street",
+        "location": "Floor-1B"
+    }
+]
