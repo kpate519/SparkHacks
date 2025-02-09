@@ -41,6 +41,7 @@ struct ContentView: View {
             } else if showSecPage {
                 SecondPageView(showSecPage: $showSecPage, showIntroPage: $showIntroPage)
             } else {
+                
                 // Show map after intro page is dismissed
                 Map {
                     
@@ -60,17 +61,16 @@ struct ContentView: View {
                         }
                     }
                 }
-//                .frame(width: 500,height: 500)
+                .frame(width: 500,height: 750)
+                .padding(.top, 30)
+                .background(
+                    Image(uiImage: UIImage(named: "Frame 4.jpg")!) // Replace with your image name
+//                        .resizable()
+                        .edgesIgnoringSafeArea(.all) // Ensures the image fills the entire background
+                )
                 .onAppear {
                     loadFountains()
                 }
-//                .background(
-//                    Image(uiImage: UIImage(named: "Frame 4.jpg")!) // Replace with your image name
-//                        .resizable()
-////                        .scaledToFill()
-//                    
-//                        .edgesIgnoringSafeArea(.all) // Ensures the image fills the entire background
-//                )
                 .sheet(item: $selectedFountain) { fountain in
                     FountainDetailView(fountain: fountain)
                         .frame(width: 300, height: 300) // Square size
@@ -169,6 +169,23 @@ struct SecondPageView: View {
                 VStack {
 
                     HStack{
+                        Button(action: {
+                            withAnimation {
+                                showSecPage = false
+                                showIntroPage = true
+                            }
+                        }) {
+                            Image(systemName: "xmark")
+                                .foregroundColor(.white)
+                                .font(.title)
+                                .frame(width: 5, height: 5)
+                                .padding()
+                                .background(Color.black.opacity(0.2))
+                                .clipShape(Circle())
+                        }
+                        .padding(.leading, 20)
+                        .padding(.bottom, 750)
+
                         Spacer()
                         Button(action: {
                             withAnimation {
@@ -199,8 +216,6 @@ struct SecondPageView: View {
         .transition(.opacity) // Fade transition for the intro page
     }
 }
-
-
 
 #Preview {
     ContentView()
