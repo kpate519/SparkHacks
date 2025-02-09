@@ -16,8 +16,7 @@ Everyday 2.0 elevates the existing UIC dining hall app, specifically designed to
 
 ### **What problem does it solve?**  
 We all know that staying hydrated is crucial, but many students struggle to find working water refill stations. It's even more frustrating when a station is out of order due to a filter issue.
-Everyday 2.0 addresses these pain points by providing users the opoortunity to set a **filter status** for water stations and their availability in the app, making it easy for students to stay 
-hydrated and reduce plastic waste.
+Everyday 2.0 addresses these pain points by making it easy for students to stay hydrated and reduce plastic waste.
 
 ---
 
@@ -36,13 +35,16 @@ hydrated and reduce plastic waste.
 
 ### **How did we come up with this idea?**  
 We started by thinking about the daily challenges of college life, focusing on the importance of hydration and sustainability. 
-After realizing how hard it can be to find a water refill station, especially when filters are broken, we decided to address this need with 
-a **real-time filter status** and **location-based service**.
+After realizing how hard it can be to find a water refill station, especially when filters are broken. We decided to include a map of all the water refill stations on campus.
 
 ---
 
 ### **Instructions on how to run our project**  
 (Include simple steps here based on your setup, such as cloning the repo, opening in Xcode, or installing dependencies.)
+- Clone repo from Github
+- Open in XCode
+- Select the scheme and target device
+- Run the app by clicking on the play icon
 
 ---
 
@@ -59,12 +61,6 @@ a **real-time filter status** and **location-based service**.
 ---
 
 ### **Key Features**  
-
-##FIX MEE## **Real-time Location Tracking**: Easily find the nearest water refill stations based on your current location.
-
-
-
-
 - **Map Integration**: An interactive map shows you the refill stations on campus.
 - **User Interface**: A clean, intuitive design that makes navigation effortless.
 - **Filter Status**: Stay updated with the status of water refill stations (e.g., Green: great filter quality, Yellow: okay filter quality, Red: poor filter quality/needs to be replaced, and default is set to unavailable status).
@@ -76,6 +72,8 @@ We’re excited to work on some awesome new features after the hackathon:
 - **Real-time Business Traffic**: We’ve mocked up a feature using GPS and Wi-Fi to track traffic within dining halls and display peak times.
 - **Push Notifications**: Let users know when they’re near an available refill station.
 - **UI/UX Improvements**: We'll refine the design based on user feedback to ensure a seamless experience.
+- **Filter Status**: providing users the opoortunity to set a **filter status** for water stations and their availability in the app.
+- **Real-time Location Tracking**: Easily find the nearest water refill stations based on your current location.
 
 ---
 
