@@ -1,9 +1,9 @@
-//////
-//////  ContentView.swift
-//////  Everday 2.0
-//////
-//////  Created by Nour Alsramah on 2/7/25.
-//////
+//
+//  ContentView.swift
+//  Everyday 2.0
+//
+//  Created by Nour Alsramah on 2/7/25.
+//
 //
 
 import SwiftUI
